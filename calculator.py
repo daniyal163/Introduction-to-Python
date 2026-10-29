@@ -13,3 +13,5 @@ elif op=='/':
         print("Division by zero is not allowed")
     else:
         print(a/b)  
+else:
+    print("Invalid operator")

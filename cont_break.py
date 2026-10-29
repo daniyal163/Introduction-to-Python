@@ -8,3 +8,4 @@ for n in range(100,200):
         print("First multiple of 7 between 100 and 200 is : ",n)
         break
     print(n)
+    
